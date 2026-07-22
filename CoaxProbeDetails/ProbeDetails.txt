@@ -1,0 +1,4 @@
+Cable length L = 165 mm
+Z0 = 50 Ohm
+Propagation Velocity 0.6*C
+SMA connector
